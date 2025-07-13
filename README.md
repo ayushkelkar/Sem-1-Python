@@ -4,9 +4,9 @@ This repository contains my personal notes, practice code, and experiments based
 
 ## 📚 Contents
 
-- `notes/` → Markdown notes chapter-wise
-- `code/` → Python programs and examples
-- `README.md` → You’re looking at it
+- `Notes.md` → Markdown notes segregated based on topic
+- `code/` → Python programs, examples, practice stuff
+- `README.md` → This file
 
 ## 🔧 Tools Used
 
@@ -24,14 +24,13 @@ This repository contains my personal notes, practice code, and experiments based
 
 ## 🗂️ Chapters Covered
 
-- ✅ Chapter 1 – Basics & Variables  
-- ✅ Chapter 2 – Data Types & Operators  
-- ✅ Chapter 3 – Flow Control  
-- ✅ Chapter 4 – Functions 
+- ✅ Chapter 1 – Basics  
+- ✅ Chapter 2 – Flow Control 
+- ✅ Chapter 3 – Functions  
+- ✅ Chapter 4 – Lists 
 
 ## 🚀 Status
 
-This is part of **Phase 1b** of my personal learning arc – *The Nocturne of Mercy*.  
-More chapters, programs, and notes will be added.
+➡️ Currently in the ending of Chapter 4.
 
 ---  
