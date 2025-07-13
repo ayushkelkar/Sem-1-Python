@@ -10,7 +10,7 @@ This repository contains my personal notes, practice code, and experiments based
 
 ## 🔧 Tools Used
 
-- Python 3.x  
+- Python 3.13.5
 - VS Code with extensions  
 - Markdown (written + rendered using Obsidian)  
 - Git & GitHub for version control
@@ -27,14 +27,11 @@ This repository contains my personal notes, practice code, and experiments based
 - ✅ Chapter 1 – Basics & Variables  
 - ✅ Chapter 2 – Data Types & Operators  
 - ✅ Chapter 3 – Flow Control  
-- ✅ Chapter 4 – Functions  
-- ⏳ More coming soon...
+- ✅ Chapter 4 – Functions 
 
 ## 🚀 Status
 
-This is part of **Phase 1b** of my personal learning arc – *The Nocturne Project*.  
-More chapters, programs, and notes will be added weekly.
+This is part of **Phase 1b** of my personal learning arc – *The Nocturne of Mercy*.  
+More chapters, programs, and notes will be added.
 
----
-
-> 💡 *“Code is poetry. Python is jazz.”*  
+---  
