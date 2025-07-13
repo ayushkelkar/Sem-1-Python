@@ -525,3 +525,30 @@ Example:
 l = [1,2,3]
 t = tuple(l)
 ```
+---
+
+## References
+
+➡️ In a normal variable, you assign a value to a variable.
+➡️ When you assign a list to a variable, you're actually assigning a list reference to that variable. 
+**Meaning:** If you change the variable, the list **will** also be changed, and vice versa.
+
+## `copy` Module:
+➡️ The `copy` module contains `.copy()` and `deepcopy()` functions. 
+➡️ `copy()` is used to make another mutable copy of the List.
+Example:
+```python
+import copy
+l = [1,2,3,4]
+m = copy.copy(l)
+m[2] = 6
+print(l)
+print(m)
+
+Output will be:
+[1,2,3,4]
+[1,2,6,4]
+```
+➡️ If the list you need to copy contains lists within itself, aka. it is a nested list structure, we have to use `deepcopy()`.
+
+---
